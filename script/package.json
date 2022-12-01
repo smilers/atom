@@ -14,7 +14,7 @@
     "donna": "1.0.16",
     "electron-chromedriver": "^11.0.0",
     "electron-link": "^0.6.0",
-    "electron-mksnapshot": "^11.0.1",
+    "electron-mksnapshot": "^21.3.3",
     "electron-packager": "^15.1.0",
     "eslint": "^5.16.0",
     "eslint-config-prettier": "^4.2.0",
