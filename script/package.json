@@ -28,7 +28,7 @@
     "fs-extra": "9.0.1",
     "glob": "7.0.3",
     "joanna": "0.0.10",
-    "klaw-sync": "^1.1.2",
+    "klaw-sync": "^2.0.0",
     "legal-eagle": "0.14.0",
     "lodash.startcase": "4.4.0",
     "lodash.template": "4.5.0",
