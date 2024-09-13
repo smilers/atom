@@ -148,7 +148,7 @@
     "semver": "7.3.2",
     "service-hub": "^0.7.4",
     "settings-view": "git+https://github.com/atom/settings-view.git#94418d6",
-    "sinon": "9.2.1",
+    "sinon": "19.0.0",
     "snippets": "git+https://github.com/atom/snippets.git#e8e6b89",
     "solarized-dark-syntax": "file:packages/solarized-dark-syntax",
     "solarized-light-syntax": "file:packages/solarized-light-syntax",
